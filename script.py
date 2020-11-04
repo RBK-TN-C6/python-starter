@@ -27,3 +27,11 @@
 # INSERT YOUR CODE BELOW THIS LINE
 #########
 
+
+a=2000
+ while (a < 3201):
+    if a%7 == 0:
+        print(a)
+     else:
+        a=a+1
+
