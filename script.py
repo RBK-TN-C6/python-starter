@@ -27,3 +27,8 @@
 # INSERT YOUR CODE BELOW THIS LINE
 #########
 
+if(hungry):
+    eat()
+else:
+    dont_eat()
+    
