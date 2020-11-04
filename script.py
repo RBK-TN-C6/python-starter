@@ -26,4 +26,9 @@
 #########
 # INSERT YOUR CODE BELOW THIS LINE
 #########
+res=[]
+for num in range(2000, 3200):
+    if (num%7 ==0) and (num%5 !=0):
+        res.append(str(num))
+print (res)
 
