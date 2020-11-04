@@ -26,4 +26,16 @@
 #########
 # INSERT YOUR CODE BELOW THIS LINE
 #########
+def my_function():
+ 
+    arr1 = []
+    arr2 = []    
+for i in range(3200):
+    #print(i, end=', ')
+arr1.insert(i)
+if i%7 = 0:
+    arr2.instert(i)
+print(arr2)
+
+    
 
