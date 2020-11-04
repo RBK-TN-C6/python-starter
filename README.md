@@ -21,5 +21,8 @@ HINT: Consider use range(#begin, #end) method
 
 B. Update this README.md with the insctruction(s) needed to run that script
 ```shell
-<REPLACE_WITH_YOUR_INSTRUCTION>
+
+source : https://www.knowledgehut.com/blog/programming/run-python-scripts
+python command : python script.py
+
 ```
