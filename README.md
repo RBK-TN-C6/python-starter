@@ -21,5 +21,5 @@ HINT: Consider use range(#begin, #end) method
 
 B. Update this README.md with the insctruction(s) needed to run that script
 ```shell
-<REPLACE_WITH_YOUR_INSTRUCTION>
+o start a Python interactive session, just open a command-line or terminal and then type in python, or python3 depending on your Python installation, and then hit Enter.
 ```
