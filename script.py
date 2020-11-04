@@ -29,9 +29,9 @@
 
 def check_Number():
     self.num = []
-   for i in range(2000,3200):
-    for k in range(1,100)
+   for i in range(2000, 3200):
+    for k in range(1, 100):
        if((i % 7) =0  and (i != (5 * k))):
            self.num.append(i)
-    return i
+    return num
 
