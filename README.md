@@ -24,5 +24,5 @@ B. Update this README.md with the insctruction(s) needed to run that script
 <REPLACE_WITH_YOUR_INSTRUCTION>
 ```
 for x in range(2000, 3001):
-    if (x%7==0) and (x%5==1):
+    if (x%7==0) and (x%5 !=0):
         print(x)
