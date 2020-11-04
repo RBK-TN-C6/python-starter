@@ -22,4 +22,12 @@ HINT: Consider use range(#begin, #end) method
 B. Update this README.md with the insctruction(s) needed to run that script
 ```shell
 <REPLACE_WITH_YOUR_INSTRUCTION>
+the number is between 2000 and 3000
+first we declare an array 
+second we loop through the range between 2000 and 3000 
+third we need two condition one the reminder of number%7 must be 0 and the rminder of number%5 must be diffrent than 0
+then we append the result to to the array
+then we print it 
+when in python idle write the arr = [] first, then write the rest of the script
+
 ```
