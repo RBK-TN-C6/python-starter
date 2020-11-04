@@ -23,3 +23,6 @@ B. Update this README.md with the insctruction(s) needed to run that script
 ```shell
 <REPLACE_WITH_YOUR_INSTRUCTION>
 ```
+
+open the file with vs code and i tried it with python file too but it didnt work
+but in vs code i was able to right click and run the command in python terminal
