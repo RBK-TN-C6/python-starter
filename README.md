@@ -20,6 +20,5 @@ A. Write a Python script which will find all numbers that are :
 HINT: Consider use range(#begin, #end) method
 
 B. Update this README.md with the insctruction(s) needed to run that script
-```shell
-<REPLACE_WITH_YOUR_INSTRUCTION>
-```
+link:https://docs.python.org/3/tutorial/index.html
+add a commande python script.py to begin the script
