@@ -25,5 +25,9 @@
 
 #########
 # INSERT YOUR CODE BELOW THIS LINE
+
+for x in range(2000, 3001):
+    if (x%7==0) and (x%5==1):
+        print(x)
 #########
 
