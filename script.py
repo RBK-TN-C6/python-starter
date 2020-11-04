@@ -25,5 +25,11 @@
 
 #########
 # INSERT YOUR CODE BELOW THIS LINE
+results=[]
+for x in range(2000, 3201):
+    if (x%7==0) and (x%5!=0):
+        results.append(str(x))
+
+print ','.join(results)
 #########
 
