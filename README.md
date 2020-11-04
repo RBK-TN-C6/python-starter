@@ -21,5 +21,5 @@ HINT: Consider use range(#begin, #end) method
 
 B. Update this README.md with the insctruction(s) needed to run that script
 ```shell
-<REPLACE_WITH_YOUR_INSTRUCTION>
+installed python on windows and executed Python Shell, Open script.py file and run module
 ```
